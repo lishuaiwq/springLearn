@@ -24,4 +24,6 @@
         </aop:aspect>
     </aop:config>
 
+
+    <bean id="hahahahaha" class="dio2.PerSon"/>
 </beans>
